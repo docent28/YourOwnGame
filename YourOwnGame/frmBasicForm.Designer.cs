@@ -1,6 +1,6 @@
 ﻿namespace YourOwnGame
 {
-    partial class Form1
+    partial class frmBasicForm
     {
         /// <summary>
         /// Required designer variable.
@@ -31,6 +31,7 @@
             this.tsMenu = new System.Windows.Forms.MenuStrip();
             this.tsmFile = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmNew = new System.Windows.Forms.ToolStripMenuItem();
+            this.questionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmExit = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmHelp = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmAbout = new System.Windows.Forms.ToolStripMenuItem();
@@ -54,6 +55,7 @@
             // 
             this.tsmFile.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsmNew,
+            this.questionToolStripMenuItem,
             this.tsmExit});
             this.tsmFile.Name = "tsmFile";
             this.tsmFile.Size = new System.Drawing.Size(54, 29);
@@ -62,14 +64,21 @@
             // tsmNew
             // 
             this.tsmNew.Name = "tsmNew";
-            this.tsmNew.Size = new System.Drawing.Size(183, 34);
+            this.tsmNew.Size = new System.Drawing.Size(186, 34);
             this.tsmNew.Text = "New (F2)";
             this.tsmNew.Click += new System.EventHandler(this.tsmNew_Click);
+            // 
+            // questionToolStripMenuItem
+            // 
+            this.questionToolStripMenuItem.Name = "questionToolStripMenuItem";
+            this.questionToolStripMenuItem.Size = new System.Drawing.Size(186, 34);
+            this.questionToolStripMenuItem.Text = "Question";
+            this.questionToolStripMenuItem.Click += new System.EventHandler(this.questionToolStripMenuItem_Click);
             // 
             // tsmExit
             // 
             this.tsmExit.Name = "tsmExit";
-            this.tsmExit.Size = new System.Drawing.Size(183, 34);
+            this.tsmExit.Size = new System.Drawing.Size(186, 34);
             this.tsmExit.Text = "Exit";
             this.tsmExit.Click += new System.EventHandler(this.tsmExit_Click);
             // 
@@ -84,10 +93,11 @@
             // tsmAbout
             // 
             this.tsmAbout.Name = "tsmAbout";
-            this.tsmAbout.Size = new System.Drawing.Size(164, 34);
+            this.tsmAbout.Size = new System.Drawing.Size(270, 34);
             this.tsmAbout.Text = "About";
+            this.tsmAbout.Click += new System.EventHandler(this.tsmAbout_Click);
             // 
-            // Form1
+            // frmBasicForm
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.ClientSize = new System.Drawing.Size(1066, 1100);
@@ -97,7 +107,7 @@
             this.MainMenuStrip = this.tsMenu;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
+            this.Name = "frmBasicForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Своя игра";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
@@ -116,6 +126,7 @@
         private System.Windows.Forms.ToolStripMenuItem tsmExit;
         private System.Windows.Forms.ToolStripMenuItem tsmHelp;
         private System.Windows.Forms.ToolStripMenuItem tsmAbout;
+        private System.Windows.Forms.ToolStripMenuItem questionToolStripMenuItem;
     }
 }
 

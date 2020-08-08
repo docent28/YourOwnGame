@@ -30,7 +30,7 @@ namespace YourOwnGame
             return numLabel;
         }
 
-        public static int rndSampling()  
+        public static int rndSampling()
         {
             Random rnd = new Random();
 

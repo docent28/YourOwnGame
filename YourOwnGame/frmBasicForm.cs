@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace YourOwnGame
 {
-    public partial class Form1 : Form
+    public partial class frmBasicForm : Form
     {
        
         public List<Label> arrLabel = new List<Label>();
@@ -19,7 +19,7 @@ namespace YourOwnGame
         Thread threadF3;
         bool isPause = true;
 
-        public Form1()
+        public frmBasicForm()
         {
             InitializeComponent();
 
@@ -122,6 +122,18 @@ namespace YourOwnGame
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             threadF3.Abort();
+        }
+
+        private void tsmAbout_Click(object sender, EventArgs e)
+        {
+            frmAbout frmAbout = new frmAbout();
+            frmAbout.ShowDialog();
+        }
+
+        private void questionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmQuestion frmQuestion = new frmQuestion();
+            frmQuestion.ShowDialog();
         }
     }
 }
