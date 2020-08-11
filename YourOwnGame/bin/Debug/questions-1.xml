@@ -1,0 +1,1575 @@
+<?xml version="1.0"?>
+<Questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <QuestionsList>
+    <Question>
+      <Name>Назовите основателя нашего города</Name>
+      <Contents>Назовите основателя нашего города</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Император Пётр Первый</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется самая главная река города?</Name>
+      <Contents>Как называется самая главная река города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Нева</Answer>
+    </Question>
+    <Question>
+      <Name>У платья два рукава, а у Невы?</Name>
+      <Contents>У платья два рукава, а у Невы?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>5 рукавов: Большая Нева, Малая Нева, Большая Невка, Малая Невка, Средняя Невка</Answer>
+    </Question>
+    <Question>
+      <Name>В честь кого назван Санкт-Петербург?</Name>
+      <Contents>В честь кого назван Санкт-Петербург?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В честь апостола Петра — небесного покровителя царя Петра Первого</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите корабль российского флота, ставший музеем</Name>
+      <Contents>Назовите корабль российского флота, ставший музеем</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Крейсер “Аврора”</Answer>
+    </Question>
+    <Question>
+      <Name>Как называют колонны на Стрелке Васильевского острова?</Name>
+      <Contents>Как называют колонны на Стрелке Васильевского острова?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Ростральные колонны</Answer>
+    </Question>
+    <Question>
+      <Name>В каком музее вам расскажут всё о животном мире?</Name>
+      <Contents>В каком музее вам расскажут всё о животном мире?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в Зоологическом</Answer>
+    </Question>
+    <Question>
+      <Name>Почему на гербе города два якоря?</Name>
+      <Contents>Почему на гербе города два якоря?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Санкт-Петербург — крупнейший речной и морской порт</Answer>
+    </Question>
+    <Question>
+      <Name>Куда отправляются «Метеоры» от Дворцовой пристани?</Name>
+      <Contents>Куда отправляются «Метеоры» от Дворцовой пристани?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В город фонтанов Петродворец</Answer>
+    </Question>
+    <Question>
+      <Name>Что украшает Аничков мост?</Name>
+      <Contents>Что украшает Аничков мост?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>4 скульптуры “Укротители коней”</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько в городе железнодорожных вокзалов?</Name>
+      <Contents>Сколько в городе железнодорожных вокзалов?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>5 вокзалов: Московский, Витебский, Финляндский, Балтийский, Варшавский</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самый большой собор Санкт-Петербурга</Name>
+      <Contents>Назовите самый большой собор Санкт-Петербурга</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Исаакиевский собор</Answer>
+    </Question>
+    <Question>
+      <Name>Как петербуржцы узнают, что наступил полдень?</Name>
+      <Contents>Как петербуржцы узнают, что наступил полдень?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>По выстрелу пушки Петропавловской крепости</Answer>
+    </Question>
+    <Question>
+      <Name>Раньше этот сад называли  “Зверинцем”, а сейчас?</Name>
+      <Contents>Раньше этот сад называли  “Зверинцем”, а сейчас?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зоопарк</Answer>
+    </Question>
+    <Question>
+      <Name>На каком острове находиться Петропавловская крепость?</Name>
+      <Contents>На каком острове находиться Петропавловская крепость?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на Заячьем острове</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите год и день рождения Санкт-Петербурга</Name>
+      <Contents>Назовите год и день рождения Санкт-Петербурга</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>27 Мая 1703 года</Answer>
+    </Question>
+    <Question>
+      <Name>Какой домик является ровесником Санкт-Петербурга?</Name>
+      <Contents>Какой домик является ровесником Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Домик Петра Первого</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько раз менялось имя нашего города?</Name>
+      <Contents>Сколько раз менялось имя нашего города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Трижды: Санкт-Петербург, Петроград, Ленинград</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется городской аэропорт?</Name>
+      <Contents>Как называется городской аэропорт?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Пулково</Answer>
+    </Question>
+    <Question>
+      <Name>На шпиле какого собора вознёсся ангел?</Name>
+      <Contents>На шпиле какого собора вознёсся ангел?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на шпиле Петропавловского собора</Answer>
+    </Question>
+    <Question>
+      <Name>Какой герой С.Я.Маршака жил на улице Бассейной?</Name>
+      <Contents>Какой герой С.Я.Маршака жил на улице Бассейной?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>человек Рассеянный</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самый большой дворец нашего города</Name>
+      <Contents>Назовите самый большой дворец нашего города</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зимний дворец</Answer>
+    </Question>
+    <Question>
+      <Name>Как Фонтанка получил своё имя?</Name>
+      <Contents>Как Фонтанка получил своё имя?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>из неё  поступала вода для фонтанов Летнего сада</Answer>
+    </Question>
+    <Question>
+      <Name>Какую угрозу таит в себе Нева?</Name>
+      <Contents>Какую угрозу таит в себе Нева?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>наводнение</Answer>
+    </Question>
+    <Question>
+      <Name>Как совершить путешествие к звёздам, не покидая Санкт-Петербург?</Name>
+      <Contents>Как совершить путешествие к звёздам, не покидая Санкт-Петербург?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>надо посетить Планетарий</Answer>
+    </Question>
+    <Question>
+      <Name>Из какого озера вытекает и куда впадает Нева?</Name>
+      <Contents>Из какого озера вытекает и куда впадает Нева?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>из Ладожского озера в Финский залив) Начинается Нева из Ладожского озера, протекает по всей территории Ленинградской области, а затем, впадает через Финский залив в Балтийское море</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самый широкий мост в Санкт-Петербурге</Name>
+      <Contents>Назовите самый широкий мост в Санкт-Петербурге</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Синий, его ширина почти 100 метров</Answer>
+    </Question>
+    <Question>
+      <Name>Для чего разводят мосты?</Name>
+      <Contents>Для чего разводят мосты?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>чтобы могли пройти большие корабли</Answer>
+    </Question>
+    <Question>
+      <Name>Что венчает шпиль Адмиралтейства?</Name>
+      <Contents>Что венчает шпиль Адмиралтейства?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Кораблик-флюгер</Answer>
+    </Question>
+    <Question>
+      <Name>Где в Петербурге можно увидеть царство растений?</Name>
+      <Contents>Где в Петербурге можно увидеть царство растений?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в Ботаническом саду</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется главная площадь Петербурга?</Name>
+      <Contents>Как называется главная площадь Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Дворцовая площадь</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите первый музей города</Name>
+      <Contents>Назовите первый музей города</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Кунсткамера</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется главная улица города?</Name>
+      <Contents>Как называется главная улица города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Невский проспект</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите архитектора Зимнего дворца</Name>
+      <Contents>Назовите архитектора Зимнего дворца</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Бартоломео Франческо Растрелли</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется главный детский театр?</Name>
+      <Contents>Как называется главный детский театр?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>ТЮЗ  им.А.Брянцева</Answer>
+    </Question>
+    <Question>
+      <Name>Какому баснописцу установлен памятник в Летнем саду?</Name>
+      <Contents>Какому баснописцу установлен памятник в Летнем саду?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>И.А.Крылову скульптор П. Клодт</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самый большой музей русского искусства в Санкт-Петербурге?</Name>
+      <Contents>Назовите самый большой музей русского искусства в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Государственный Русский музей</Answer>
+    </Question>
+    <Question>
+      <Name>Где в Петербурге улицы называются линиями?</Name>
+      <Contents>Где в Петербурге улицы называются линиями?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на Васильевском острове</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько лет нашему городу?</Name>
+      <Contents>Сколько лет нашему городу?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>с 1703 - 317 лет в 2020 году</Answer>
+    </Question>
+    <Question>
+      <Name>У Санкт-Петербурга есть свои ключи, которые хранятся в специальном ларце, на бархатной подушечке. Где находится это ларец с ключами от города?</Name>
+      <Contents>У Санкт-Петербурга есть свои ключи, которые хранятся в специальном ларце, на бархатной подушечке. Где находится это ларец с ключами от города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в Петропавловской крепости</Answer>
+    </Question>
+    <Question>
+      <Name>На каком острове был построен домик Петра Первого?</Name>
+      <Contents>На каком острове был построен домик Петра Первого?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>домик был построен за три дня на Берёзовом острове, который был рядом с Заячьим</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется главный храм (собор) города?</Name>
+      <Contents>Как называется главный храм (собор) города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Исаакиевский собор</Answer>
+    </Question>
+    <Question>
+      <Name>Какова высота Исаакиевского собора?</Name>
+      <Contents>Какова высота Исаакиевского собора?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>его высота более ста метров</Answer>
+    </Question>
+    <Question>
+      <Name>На какой площади находится Исаакиевский собор?</Name>
+      <Contents>На какой площади находится Исаакиевский собор?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на  Исаакиевская площади</Answer>
+    </Question>
+    <Question>
+      <Name>Где жили первые строители Петропавловской крепости?</Name>
+      <Contents>Где жили первые строители Петропавловской крепости?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в шалашах и землянках</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется первая площадь города?</Name>
+      <Contents>Как называется первая площадь города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Троицкая площадь</Answer>
+    </Question>
+    <Question>
+      <Name>На Троицкой площади была построена церковь. Как она называлась?</Name>
+      <Contents>На Троицкой площади была построена церковь. Как она называлась?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Троицкая церковь, позднее Троицкую церковь заменили на каменный Троицкий собор</Answer>
+    </Question>
+    <Question>
+      <Name>Какой собор находится на Троицкой площади?</Name>
+      <Contents>Какой собор находится на Троицкой площади?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Троицкий собор</Answer>
+    </Question>
+    <Question>
+      <Name>Внутри крепости Санкт-Петербург царь Пётр построил церковь. В честь каких святых она была названа?</Name>
+      <Contents>Внутри крепости Санкт-Петербург царь Пётр построил церковь. В честь каких святых она была названа?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в честь святых Петра и Павла</Answer>
+    </Question>
+    <Question>
+      <Name>Кто был самым первым архитектором Санкт-Петербурга?</Name>
+      <Contents>Кто был самым первым архитектором Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Доменико Трезини</Answer>
+    </Question>
+    <Question>
+      <Name>Архитектор здания Адмиралтейства?</Name>
+      <Contents>Архитектор здания Адмиралтейства?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Андриян Захаров</Answer>
+    </Question>
+    <Question>
+      <Name>Что указывает Ангел на колокольне Петропавловского собора?</Name>
+      <Contents>Что указывает Ангел на колокольне Петропавловского собора?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>его называют – флюгер, он поворачивается и указывает направление ветра</Answer>
+    </Question>
+    <Question>
+      <Name>Кем считается Ангел, расположенный на колокольне Петропавловского собора?</Name>
+      <Contents>Кем считается Ангел, расположенный на колокольне Петропавловского собора?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>этот Ангел считается хранителем Санкт-Петербурга</Answer>
+    </Question>
+    <Question>
+      <Name>На каком мосту расположены львы «Грифоны» с золотыми крыльями?</Name>
+      <Contents>На каком мосту расположены львы «Грифоны» с золотыми крыльями?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на Банковском мосту</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько ключей от нашего города хранятся в ларце, в Петропавловском соборе?</Name>
+      <Contents>Сколько ключей от нашего города хранятся в ларце, в Петропавловском соборе?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>2 ключа</Answer>
+    </Question>
+    <Question>
+      <Name>Название дома который сделан из брёвен</Name>
+      <Contents>Название дома который сделан из брёвен</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>деревянный</Answer>
+    </Question>
+    <Question>
+      <Name>Название  дома который сделан из кирпича?</Name>
+      <Contents>Название  дома который сделан из кирпича?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>кирпичный дом</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется место, где просторно и не тесно. Ну а в центре, например, может быть фонтан  или сквер ?</Name>
+      <Contents>Как называется место, где просторно и не тесно. Ну а в центре, например, может быть фонтан  или сквер ?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>площадь</Answer>
+    </Question>
+    <Question>
+      <Name>Естественный водоём, это: — пруд или – озеро?</Name>
+      <Contents>Естественный водоём, это: — пруд или – озеро?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>озеро</Answer>
+    </Question>
+    <Question>
+      <Name>Откуда берёт своё начало река Нева?</Name>
+      <Contents>Откуда берёт своё начало река Нева?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>с Ладожского озера</Answer>
+    </Question>
+    <Question>
+      <Name>Какого цвета золотого или серебренного символ нашего города «Кораблик»?</Name>
+      <Contents>Какого цвета золотого или серебренного символ нашего города «Кораблик»?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>золотого цвета</Answer>
+    </Question>
+    <Question>
+      <Name>Как называются нарисованные полоски для перехода дороги?</Name>
+      <Contents>Как называются нарисованные полоски для перехода дороги?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>зебра</Answer>
+    </Question>
+    <Question>
+      <Name>На какой свет надо переходить дорогу?</Name>
+      <Contents>На какой свет надо переходить дорогу?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на зелёный</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется переход- ступеньки которого ведут вниз и вверх?</Name>
+      <Contents>Как называется переход- ступеньки которого ведут вниз и вверх?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>подземный переход</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется Петербургский аэропорт?</Name>
+      <Contents>Как называется Петербургский аэропорт?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Пулково</Answer>
+    </Question>
+    <Question>
+      <Name>Как называются колонны расположенные на стрелке Васильевского острова?</Name>
+      <Contents>Как называются колонны расположенные на стрелке Васильевского острова?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>ростральные</Answer>
+    </Question>
+    <Question>
+      <Name>Можно ли играть на проезжей части ?</Name>
+      <Contents>Можно ли играть на проезжей части ?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>нет</Answer>
+    </Question>
+    <Question>
+      <Name>На какой свет нельзя переходить дорогу?</Name>
+      <Contents>На какой свет нельзя переходить дорогу?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на красный</Answer>
+    </Question>
+    <Question>
+      <Name>Мама, папа, бабушка, дедушка и я. Называется-?</Name>
+      <Contents>Мама, папа, бабушка, дедушка и я. Называется-?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>семья</Answer>
+    </Question>
+    <Question>
+      <Name>В какое время года пернатые друзья улетают на юг?</Name>
+      <Contents>В какое время года пернатые друзья улетают на юг?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>осенью</Answer>
+    </Question>
+    <Question>
+      <Name>Листопад бывает весной или осенью?</Name>
+      <Contents>Листопад бывает весной или осенью?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>осенью</Answer>
+    </Question>
+    <Question>
+      <Name>Холодное и снежное время года?</Name>
+      <Contents>Холодное и снежное время года?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зима</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется транспорт который перевозит пассажиров?</Name>
+      <Contents>Как называется транспорт который перевозит пассажиров?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>пассажирский</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется транспорт который перевозит груз?</Name>
+      <Contents>Как называется транспорт который перевозит груз?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>грузовой</Answer>
+    </Question>
+    <Question>
+      <Name>Какое сооружение служит для того, чтобы перейти через реку?</Name>
+      <Contents>Какое сооружение служит для того, чтобы перейти через реку?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>мост</Answer>
+    </Question>
+    <Question>
+      <Name>Самый большой мост в Санкт-Петербурге?</Name>
+      <Contents>Самый большой мост в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Дворцовый мост</Answer>
+    </Question>
+    <Question>
+      <Name>Зачем в Петербурге разводят мосты?</Name>
+      <Contents>Зачем в Петербурге разводят мосты?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>чтобы проходили большие корабли</Answer>
+    </Question>
+    <Question>
+      <Name>Почему ростральные колонны называются ростральными?</Name>
+      <Contents>Почему ростральные колонны называются ростральными?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>их украшают ростры- носы кораблей</Answer>
+    </Question>
+    <Question>
+      <Name>Самый старый вокзал нашего города?</Name>
+      <Contents>Самый старый вокзал нашего города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Витебский вокзал</Answer>
+    </Question>
+    <Question>
+      <Name>Самая первая станция метрополитена?</Name>
+      <Contents>Самая первая станция метрополитена?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>площадь Восстания</Answer>
+    </Question>
+    <Question>
+      <Name>Что означает слово «флюгер»?</Name>
+      <Contents>Что означает слово «флюгер»?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>направление ветра</Answer>
+    </Question>
+    <Question>
+      <Name>Что украшает Александрийскую колонну?</Name>
+      <Contents>Что украшает Александрийскую колонну?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Ангел</Answer>
+    </Question>
+    <Question>
+      <Name>Самый большой собор Санкт-Петербурга?</Name>
+      <Contents>Самый большой собор Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Исаакиевский собор, он вмещает до 4 000 человек</Answer>
+    </Question>
+    <Question>
+      <Name>Самый любимый архитектор Петра первого?</Name>
+      <Contents>Самый любимый архитектор Петра первого?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Доменико Трезини</Answer>
+    </Question>
+    <Question>
+      <Name>Что охраняют львы-грифоны?</Name>
+      <Contents>Что охраняют львы-грифоны?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>здание банка</Answer>
+    </Question>
+    <Question>
+      <Name>На какой площади стоит Александровская колона?</Name>
+      <Contents>На какой площади стоит Александровская колона?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на Дворцовой</Answer>
+    </Question>
+    <Question>
+      <Name>Самый большой остров Санкт-Петербурга?</Name>
+      <Contents>Самый большой остров Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Васильевский</Answer>
+    </Question>
+    <Question>
+      <Name>На скольких островах стоит наш город?</Name>
+      <Contents>На скольких островах стоит наш город?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>на 42-х островах</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется  район Морского порта в нашем городе?</Name>
+      <Contents>Как называется  район Морского порта в нашем городе?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Гавань</Answer>
+    </Question>
+    <Question>
+      <Name>С чего началось строительство Васильевского острова?</Name>
+      <Contents>С чего началось строительство Васильевского острова?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>в 1722 Здание 12 коллегий. Архитектор Доменико Трезине</Answer>
+    </Question>
+    <Question>
+      <Name>Что находится сейчас в здании 12 коллегий?</Name>
+      <Contents>Что находится сейчас в здании 12 коллегий?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Университет</Answer>
+    </Question>
+    <Question>
+      <Name>Самый лучший друг Петра Первого?</Name>
+      <Contents>Самый лучший друг Петра Первого?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>князь А. Меньшиков</Answer>
+    </Question>
+    <Question>
+      <Name>Из какой страны к нам привезли сказочных существ – Сфинксов? </Name>
+      <Contents>Из какой страны к нам привезли сказочных существ – Сфинксов? </Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>из  Египта</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько у Невы рукавов?</Name>
+      <Contents>Сколько у Невы рукавов?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>два: Большая и Малая Нева</Answer>
+    </Question>
+    <Question>
+      <Name>Что является центром ансамбля стрелки Васильевского острова?</Name>
+      <Contents>Что является центром ансамбля стрелки Васильевского острова?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Биржа</Answer>
+    </Question>
+    <Question>
+      <Name>Кто является архитектором здания Биржи?</Name>
+      <Contents>Кто является архитектором здания Биржи?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Тома Де Томон</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько колонн украшает Васильевский остров?</Name>
+      <Contents>Сколько колонн украшает Васильевский остров?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>две</Answer>
+    </Question>
+    <Question>
+      <Name>Ростральные колонны украшают 4 скульптуры рек. Назовите их</Name>
+      <Contents>Ростральные колонны украшают 4 скульптуры рек. Назовите их</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Днепр, Волга, Волхов, Нева</Answer>
+    </Question>
+    <Question>
+      <Name>Какую роль выполняли ростральные колонны раньше?</Name>
+      <Contents>Какую роль выполняли ростральные колонны раньше?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>служили маяком для кораблей</Answer>
+    </Question>
+    <Question>
+      <Name>Кто украшает ростры на Ростральных колоннах?</Name>
+      <Contents>Кто украшает ростры на Ростральных колоннах?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>морские коньки, крокодилы, водяные, девы с дельфинами</Answer>
+    </Question>
+    <Question>
+      <Name>В Летнем саду есть памятник баснописцу, которого окружают звери и птицы? Кто же этот человек?</Name>
+      <Contents>В Летнем саду есть памятник баснописцу, которого окружают звери и птицы? Кто же этот человек?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Иван Андреевич Крылов</Answer>
+    </Question>
+    <Question>
+      <Name>Какой юбилей широко отметил Санкт-Петербург в 2003 году?</Name>
+      <Contents>Какой юбилей широко отметил Санкт-Петербург в 2003 году?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Своё трёхсотлетие</Answer>
+    </Question>
+    <Question>
+      <Name>Какой день считается датой основания города?</Name>
+      <Contents>Какой день считается датой основания города?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>16 мая 1703 г.</Answer>
+    </Question>
+    <Question>
+      <Name>Начало строительства какой крепости считается днём основания Петербурга?</Name>
+      <Contents>Начало строительства какой крепости считается днём основания Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Петропавловской крепости</Answer>
+    </Question>
+    <Question>
+      <Name>Санкт-Петербург расположен на многочисленных островах дельты Невы. А сколько их всего?</Name>
+      <Contents>Санкт-Петербург расположен на многочисленных островах дельты Невы. А сколько их всего?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Около ста</Answer>
+    </Question>
+    <Question>
+      <Name>Какой из островов является самым большим?</Name>
+      <Contents>Какой из островов является самым большим?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Васильевский. Его площадь составляет 10,9 кв. км.</Answer>
+    </Question>
+    <Question>
+      <Name>У берегов какого острова смешиваются воды пяти рек и каналов?</Name>
+      <Contents>У берегов какого острова смешиваются воды пяти рек и каналов?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>У берегов Новой Голландии смешиваются воды Фонтанки, Мойки и каналов Грибоедова, Крюкова, Адмиралтейского</Answer>
+    </Question>
+    <Question>
+      <Name>Какой канал в городе самый длинный?</Name>
+      <Contents>Какой канал в городе самый длинный?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Обводной</Answer>
+    </Question>
+    <Question>
+      <Name>Через Обводной канал переброшено наибольшее количество мостов. Сколько же?</Name>
+      <Contents>Через Обводной канал переброшено наибольшее количество мостов. Сколько же?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>26</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько всего мостов в Северной Пальмире?</Name>
+      <Contents>Сколько всего мостов в Северной Пальмире?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>342</Answer>
+    </Question>
+    <Question>
+      <Name>Какое название получил поезд № 1, курсирующий между Москвой и Санкт-Петербургом?</Name>
+      <Contents>Какое название получил поезд № 1, курсирующий между Москвой и Санкт-Петербургом?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>«Красная стрела»</Answer>
+    </Question>
+    <Question>
+      <Name>Какой император разжаловал Москву из столиц?</Name>
+      <Contents>Какой император разжаловал Москву из столиц?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Пётр I</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите древний сирийский город, с которым привыкли сравнивать Санкт-Петербург.Назовите древний сирийский город, с которым привыкли сравнивать Санкт-Петербург</Name>
+      <Contents>Назовите древний сирийский город, с которым привыкли сравнивать Санкт-Петербург</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Пальмира. Санкт-Петербург – Северная Пальмира</Answer>
+    </Question>
+    <Question>
+      <Name>Символом какого российского города является колонна высотой 47,5 м и весом 600 тонн?</Name>
+      <Contents>Символом какого российского города является колонна высотой 47,5 м и весом 600 тонн?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Города Санкт-Петербурга, Александровская колонна</Answer>
+    </Question>
+    <Question>
+      <Name>Что представляет собой фигура на вершине Александровской колонны в Санкт-Петербурге?</Name>
+      <Contents>Что представляет собой фигура на вершине Александровской колонны в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Это ангел</Answer>
+    </Question>
+    <Question>
+      <Name>На каком острове в Санкт-Петербурге находится Петропавловская крепость?</Name>
+      <Contents>На каком острове в Санкт-Петербурге находится Петропавловская крепость?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На Заячьем острове</Answer>
+    </Question>
+    <Question>
+      <Name>На какой площади Санкт-Петербурга некогда бойко торговали сеном?</Name>
+      <Contents>На какой площади Санкт-Петербурга некогда бойко торговали сеном?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Сенная площадь. Ныне и не догадаешься!</Answer>
+    </Question>
+    <Question>
+      <Name>Какие площади города являются самыми большими?</Name>
+      <Contents>Какие площади города являются самыми большими?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Дворцовая и Декабристов</Answer>
+    </Question>
+    <Question>
+      <Name>Какой собор Санкт-Петербурга Монферран (Август Августович) строил 40 лет?</Name>
+      <Contents>Какой собор Санкт-Петербурга Монферран (Август Августович) строил 40 лет?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Исаакиевский</Answer>
+    </Question>
+    <Question>
+      <Name>В каком соборе Санкт-Петербурга был установлен маятник Фуко, демонстрирующий суточное вращение Земли?</Name>
+      <Contents>В каком соборе Санкт-Петербурга был установлен маятник Фуко, демонстрирующий суточное вращение Земли?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В Исаакиевском</Answer>
+    </Question>
+    <Question>
+      <Name>Однажды молодому архитектору Огюсту Монферрану цыганка предсказала: «Построишь храм – закончится твоя жизнь...» Сбылось ли предсказание цыганки?</Name>
+      <Contents>Однажды молодому архитектору Огюсту Монферрану цыганка предсказала: «Построишь храм – закончится твоя жизнь...» Сбылось ли предсказание цыганки?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Да. Исаакиевский собор был торжественно освящён 30 мая 1858 года, в день рождения Петра I. Через месяц после этого Монферрана не стало</Answer>
+    </Question>
+    <Question>
+      <Name>Почему Исаакиевский собор в Петербурге был назван именно так?</Name>
+      <Contents>Почему Исаакиевский собор в Петербурге был назван именно так?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Когда на берегах Невы поднимался новый город – Санкт-Петербург, Пётр I решил отметить свой день рождения закладкой церкви. И назвал он её Исаакиевской, потому что праздник Святого Исаакия Далматского совпадал с датой рождения царя – 30 мая. Пётр I и представить себе не мог, что скромная деревянная церковь со временем станет главным собором не только столицы, но и всей православной России</Answer>
+    </Question>
+    <Question>
+      <Name>Есть ли ещё в мире хоть одно другое здание, которое было бы украшено 112 монолитными колоннами, как Исаакиевский собор?</Name>
+      <Contents>Есть ли ещё в мире хоть одно другое здание, которое было бы украшено 112 монолитными колоннами, как Исаакиевский собор?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Нет. За то, что при их установке не произошло ни одного несчастного случая, архитектор Монферран, бывший и столь же талантливым инженером и изобретателем, был награждён орденом Св. Анны</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько раз со времени постройки Исаакиевского собора вновь золотили его купол?</Name>
+      <Contents>Сколько раз со времени постройки Исаакиевского собора вновь золотили его купол?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>С тех самых пор купол Исаакия никогда не золотили, а он и сегодня сверкает, как новый. Ведь для золочения купола осуществлялось уникальным «огневым» способом. Медные листы покрывали расплавленной смесью золота и ртути. А затем медленно нагревали их, держа над жаровнями, чтобы ртуть выпарилась. С каждым листом это проделывали три раза</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько колоколов было отлито для Исаакиевского собора (под руководством валдайского мастера Ивана Стуколкина)?</Name>
+      <Contents>Сколько колоколов было отлито для Исаакиевского собора (под руководством валдайского мастера Ивана Стуколкина)?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Всего одиннадцать. Главный колокол собора весит 30 тонн. Их особый «малиновый звон» объясняется тем, что в сплав, кроме традиционных меди и олова, добавлено серебро</Answer>
+    </Question>
+    <Question>
+      <Name>В какое время в Петербурге каждый день стреляет орудие со стены Петропавловской крепости?</Name>
+      <Contents>В какое время в Петербурге каждый день стреляет орудие со стены Петропавловской крепости?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В 12 часов дня</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется остров в Петербурге, на котором находятся Кунсткамера, дворец Меншикова и ростральные колонны?</Name>
+      <Contents>Как называется остров в Петербурге, на котором находятся Кунсткамера, дворец Меншикова и ростральные колонны?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Васильевский остров</Answer>
+    </Question>
+    <Question>
+      <Name>Что символизируют четыре скульптуры, расположенные у подножия ростральных колонн на стрелке Васильевского острова Санкт-Петербурга?</Name>
+      <Contents>Что символизируют четыре скульптуры, расположенные у подножия ростральных колонн на стрелке Васильевского острова Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Четыре великие русские реки: Волгу, Днепр, Неву, Волхов</Answer>
+    </Question>
+    <Question>
+      <Name>Каждая из ростральных колонн в Санкт-Петербурге по своему назначению – это... Что?</Name>
+      <Contents>Каждая из ростральных колонн в Санкт-Петербурге по своему назначению – это... Что?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Маяк</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько скульптур «Укрощение коня» установлено на Аничковом мосту в Санкт-Петербурге?</Name>
+      <Contents>Сколько скульптур «Укрощение коня» установлено на Аничковом мосту в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Четыре</Answer>
+    </Question>
+    <Question>
+      <Name>Что изображено на гербе Санкт-Петербурга?</Name>
+      <Contents>Что изображено на гербе Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Два перекрещенных серебряных якоря, морской и речной, и положенный на них золотой скипетр, увенчанный двуглавым орлом</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько изображений герба Санкт-Петербурга можно насчитать, любуясь декоративным убранством Литейного моста?</Name>
+      <Contents>Сколько изображений герба Санкт-Петербурга можно насчитать, любуясь декоративным убранством Литейного моста?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>546. Попробуйте проверить</Answer>
+    </Question>
+    <Question>
+      <Name>Кто был первым узником Петропавловской крепости?</Name>
+      <Contents>Кто был первым узником Петропавловской крепости?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Царевич Алексей</Answer>
+    </Question>
+    <Question>
+      <Name>В Санкт-Петербурге установлен памятник А.В. Суворову, где он изображён в виде римского воина. Где именно?</Name>
+      <Contents>В Санкт-Петербурге установлен памятник А.В. Суворову, где он изображён в виде римского воина. Где именно?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На Марсовом поле</Answer>
+    </Question>
+    <Question>
+      <Name>Многие медики утверждают, что именно в Санкт-Петербурге на улице Миллионной, у Нового Эрмитажа, а не в анатомическом театре лучше всего изучать мышечную систему человека. Назовите учебное пособие с улицы Миллионной</Name>
+      <Contents>Многие медики утверждают, что именно в Санкт-Петербурге на улице Миллионной, у Нового Эрмитажа, а не в анатомическом театре лучше всего изучать мышечную систему человека. Назовите учебное пособие с улицы Миллионной</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Атланты у Нового Эрмитажа</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется главный дворец Эрмитажного комплекса в Санкт-Петербурге?</Name>
+      <Contents>Как называется главный дворец Эрмитажного комплекса в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зимний дворец</Answer>
+    </Question>
+    <Question>
+      <Name>Какие здания, кроме Зимнего дворца, входят в Эрмитажный комплекс?</Name>
+      <Contents>Какие здания, кроме Зимнего дворца, входят в Эрмитажный комплекс?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Малый Эрмитаж с зимним садом. Старый Эрмитаж, Эрмитажный театр, Новый Эрмитаж. Все здания соединены крытыми переходами и образуют единый комплекс</Answer>
+    </Question>
+    <Question>
+      <Name>На адмиралтейский верфях какого города построено более 2-х тысяч кораблей разного класса: от галер до мощного атомного крейсера «Пётр Великий»?</Name>
+      <Contents>На адмиралтейский верфях какого города построено более 2-х тысяч кораблей разного класса: от галер до мощного атомного крейсера «Пётр Великий»?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Санкт-Петербурга</Answer>
+    </Question>
+    <Question>
+      <Name>Как называется остроконечное завершение здания Адмиралтейства в Санкт-Петербурге?</Name>
+      <Contents>Как называется остроконечное завершение здания Адмиралтейства в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Игла</Answer>
+    </Question>
+    <Question>
+      <Name>Ворота флорентийского баптистерия Микеланджело называл «Вратами Рая». А копия знаменитых ворот работы литейщика Екимова украшает этот собор Санкт-Петербурга. Какой?</Name>
+      <Contents>Ворота флорентийского баптистерия Микеланджело называл «Вратами Рая». А копия знаменитых ворот работы литейщика Екимова украшает этот собор Санкт-Петербурга. Какой?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Казанский собор</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите архитектора, автора Казанского собора в Санкт-Петербурге?</Name>
+      <Contents>Назовите архитектора, автора Казанского собора в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Казанский собор построен архитектором А.Н. Воронихиным в 1801-1811 гг</Answer>
+    </Question>
+    <Question>
+      <Name>Когда в Санкт-Петербурге случилось самое большое наводнение, описанное А.С. Пушкиным в поэме «Медный всадник»?</Name>
+      <Contents>Когда в Санкт-Петербурге случилось самое большое наводнение, описанное А.С. Пушкиным в поэме «Медный всадник»?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>7 ноября 1824 года, когда уровень воды поднялся на 410 см</Answer>
+    </Question>
+    <Question>
+      <Name>На каких триумфальных воротах Петербурга были золотом нанесены названия гвардейских полков, отличившихся в сражениях 1812 года?</Name>
+      <Contents>На каких триумфальных воротах Петербурга были золотом нанесены названия гвардейских полков, отличившихся в сражениях 1812 года?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На Нарвских воротах зодчего Стасова В.П</Answer>
+    </Question>
+    <Question>
+      <Name>Какой российский архитектор украсил Санкт-Петербург Нарвскими и Московскими Триумфальными воротами?</Name>
+      <Contents>Какой российский архитектор украсил Санкт-Петербург Нарвскими и Московскими Триумфальными воротами?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Василий Стасов</Answer>
+    </Question>
+    <Question>
+      <Name>Бажов или Баженов был российским архитектором, автором проекта Михайловского замка в Санкт-Петербурге?</Name>
+      <Contents>Бажов или Баженов был российским архитектором, автором проекта Михайловского замка в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Баженов Василий Иванович. А Бажов Павел Петрович – русский писатель, автор уральских сказов</Answer>
+    </Question>
+    <Question>
+      <Name>В каком Петроградском дворце в 1917 году заседало Временное правительство?</Name>
+      <Contents>В каком Петроградском дворце в 1917 году заседало Временное правительство?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В Зимнем дворце</Answer>
+    </Question>
+    <Question>
+      <Name>Очень долго город на Неве украшала просто «Балерина». Но недавно скульптуру воссоздали на улице Росси как памятник ей. Кому же?</Name>
+      <Contents>Очень долго город на Неве украшала просто «Балерина». Но недавно скульптуру воссоздали на улице Росси как памятник ей. Кому же?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Галине Улановой</Answer>
+    </Question>
+    <Question>
+      <Name>Глядя на какой памятник в Александровском саду, гости Санкт-Петербурга часто спрашивают гидов: «А почему у ног Сталина верблюд лежит?»</Name>
+      <Contents>Глядя на какой памятник в Александровском саду, гости Санкт-Петербурга часто спрашивают гидов: «А почему у ног Сталина верблюд лежит?»</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На памятник Пржевальскому</Answer>
+    </Question>
+    <Question>
+      <Name>Под каким мостом в Ленинграде Валерий Чкалов осуществил пролёт, оставшийся в истории авиации неповторимой выходкой?</Name>
+      <Contents>Под каким мостом в Ленинграде Валерий Чкалов осуществил пролёт, оставшийся в истории авиации неповторимой выходкой?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Под Троицким мостом</Answer>
+    </Question>
+    <Question>
+      <Name>Улицы или речные каналы в Санкт-Петербурге называют линиями?</Name>
+      <Contents>Улицы или речные каналы в Санкт-Петербурге называют линиями?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Улицы</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самый протяжённый мост Санкт-Петербурга</Name>
+      <Contents>Назовите самый протяжённый мост Санкт-Петербурга</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Мост Александра Невского. Его длина 909 м, открыт в 1965 году</Answer>
+    </Question>
+    <Question>
+      <Name>Какой мост в Санкт-Петербурге самый широкий, почти 100 метров в ширину?</Name>
+      <Contents>Какой мост в Санкт-Петербурге самый широкий, почти 100 метров в ширину?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Синий мост</Answer>
+    </Question>
+    <Question>
+      <Name>Какой название получил открытый в конце 2004 года неразводной мост в Санкт-Петербурге?</Name>
+      <Contents>Какой название получил открытый в конце 2004 года неразводной мост в Санкт-Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Большой Обуховский</Answer>
+    </Question>
+    <Question>
+      <Name>Как теперь в Санкт-Петербурге называется Большая Першпективная дорога?</Name>
+      <Contents>Как теперь в Санкт-Петербурге называется Большая Першпективная дорога?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Невский проспект</Answer>
+    </Question>
+    <Question>
+      <Name>Какому проспекту Нева дала своё имя?</Name>
+      <Contents>Какому проспекту Нева дала своё имя?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Заневский. А Невский проспект обязан своим именем Александро-Невской лавре</Answer>
+    </Question>
+    <Question>
+      <Name>Александр Дюма в своей книге «Путешествие по России» назвал Невский проспект «улицей веротерпимости». Почему?</Name>
+      <Contents>Александр Дюма в своей книге «Путешествие по России» назвал Невский проспект «улицей веротерпимости». Почему?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Санкт-Петербург – многонациональный город. На Невском проспекте есть православный Казанский собор, голландская церковь, лютеранский храм Святых Петра и Павла, католический костёл Святой Екатерины, армянская церковь. В Санкт-Петербурге находится самая крупная в Европе мечеть – Соборная</Answer>
+    </Question>
+    <Question>
+      <Name>Какой памятник в Санкт-Петербурге является самым маленьким?</Name>
+      <Contents>Какой памятник в Санкт-Петербурге является самым маленьким?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Памятник Чижику-Пыжику на Фонтанке, у Первого Инженерного моста, напротив дома № 6. Высота его 11 см, вес около 5 кг</Answer>
+    </Question>
+    <Question>
+      <Name>О какой ограде Санкт-Петербурга написала эти строки А.А. Ахматова?</Name>
+      <Contents>О какой ограде Санкт-Петербурга написала эти строки А.А. Ахматова?
+
+Я к розам хочу, в тот единственный сад,
+Где лучшая в мире стоит из оград.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>О знаменитой ограде Летнего сада</Answer>
+    </Question>
+    <Question>
+      <Name>Мастеровыми какой профессии в 18-м веке выкована ограда Летнего сада в Петербурге?</Name>
+      <Contents>Мастеровыми какой профессии в 18-м веке выкована ограда Летнего сада в Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Кузнецами</Answer>
+    </Question>
+    <Question>
+      <Name>Экспозиция какого музея занимает здание Михайловского дворца в Петербурге?</Name>
+      <Contents>Экспозиция какого музея занимает здание Михайловского дворца в Петербурге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Русского музея</Answer>
+    </Question>
+    <Question>
+      <Name>В Санкт-Петербурге «девятитысячники» носят имена в честь Москвы, Ленина и Обуховской Обороны. О чём речь?</Name>
+      <Contents>В Санкт-Петербурге «девятитысячники» носят имена в честь Москвы, Ленина и Обуховской Обороны. О чём речь?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>О самых длинных проспектах, более 9000 метров</Answer>
+    </Question>
+    <Question>
+      <Name>Почему в Санкт-Петербурге зоопарк именуется Ленинградским?</Name>
+      <Contents>Почему в Санкт-Петербурге зоопарк именуется Ленинградским?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Ленинградский зоопарк работал и в блокаду. Звери страдали от голода и холода так же, как и люди. От бомбы погибла слониха Бесси. Работники зоопарка делали всё, чтобы спасти животных. Для тигров и львят, отказывавшихся от «травяного» рациона, придумали особое «блюдо»: в кроличьи шкурки зашивали сдобренные рыбьим жиром опилки. В память о войне зоопарк не переименовывали. Он так и остался Ленинградским</Answer>
+    </Question>
+    <Question>
+      <Name>Что роднит российский Санкт-Петербург и японский Токио?</Name>
+      <Contents>Что роднит российский Санкт-Петербург и японский Токио?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Эти два города мира находятся на высоте 6 метров над уровнем моря</Answer>
+    </Question>
+    <Question>
+      <Name>Верно ли, что жители Санкт-Петербурга называют бордюр поребриком?</Name>
+      <Contents>Верно ли, что жители Санкт-Петербурга называют бордюр поребриком?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Да</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько лет Санкт-Петербург был столицей России?</Name>
+      <Contents>Сколько лет Санкт-Петербург был столицей России?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>206 лет. С 1712 по 1918 год</Answer>
+    </Question>
+    <Question>
+      <Name>Когда Санкт-Петербург был переименован в Петроград?</Name>
+      <Contents>Когда Санкт-Петербург был переименован в Петроград?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>18 августа 1914 года, после вступления России в Первую мировую войну</Answer>
+    </Question>
+    <Question>
+      <Name>Когда Санкт-Петербург (Петроград) стал Ленинградом?</Name>
+      <Contents>Когда Санкт-Петербург (Петроград) стал Ленинградом?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>26 января 1924 года, после смерти В.И. Ленина</Answer>
+    </Question>
+    <Question>
+      <Name>Когда было возвращено историческое наименование Санкт-Петербурга?</Name>
+      <Contents>Когда было возвращено историческое наименование Санкт-Петербурга?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>6 сентября 1991 года</Answer>
+    </Question>
+    <Question>
+      <Name>Где в Санкт-Петербурге можно прочитать пушкинские строки в каменной книге?</Name>
+      <Contents>Где в Санкт-Петербурге можно прочитать пушкинские строки в каменной книге?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На Васильевском острове, на набережной Невы возле университета, против входа в старинное здание филологического факультета. Огромная раскрытая книга из гранита размером 365 на 240 см, символ просвещения и знания, учительства и ученичества. На её развороте пушкинские строки, начиная с признания: «Люблю тебя, Петра творенье...» и кончая торжественным пожеланием-заклинанием: «Красуйся, град Петров, и стой неколебимо, как Россия!» Памятник называется «Послание через века», его автор – петербургский скульптор и художник-график Эвелина Соловьёва. Торжественное открытие и освящение памятника на Университетской набережной состоялось в 2002 году</Answer>
+    </Question>
+    <Question>
+      <Name>Выставка к 300-летнему юбилею нашей северной столицы состояла из 69 портретов губернаторов города. Кого изображал первый портрет?</Name>
+      <Contents>Выставка к 300-летнему юбилею нашей северной столицы состояла из 69 портретов губернаторов города. Кого изображал первый портрет?</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Меншикова Александра Даниловича – первого губернатора Санкт-Петербурга</Answer>
+    </Question>
+    <Question>
+      <Name>Что, согласно Указа Петра I от 1714 года, должны были привозить люди, приезжающие в Санкт-Петербург?</Name>
+      <Contents>Что, согласно Указа Петра I от 1714 года, должны были привозить люди, приезжающие в Санкт-Петербург?
+а) Золото;
+б) Гвозди;
+в) Зерно;
+г) Камни.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Камни.
+(На строительство города.)</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите самую высокую точку Санкт-Петербурга петровской эпохи?</Name>
+      <Contents>Назовите самую высокую точку Санкт-Петербурга петровской эпохи?
+а) Крыша Зимнего дворца;
+б) Адмиралтейская игла;
+в) Купол Исаакиевского собора;
+г) Шпиль Петропавловского собора.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Шпиль Петропавловского собора.
+(Его высота более 100 метров.)</Answer>
+    </Question>
+    <Question>
+      <Name>На каком острове расположена Петропавловская крепость Санкт-Петербурга?</Name>
+      <Contents>На каком острове расположена Петропавловская крепость Санкт-Петербурга?
+а) Заячий;
+б) Крестовский;
+в) Елагин;
+г) Васильевский.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Заячий (Петропавловская крепость – первое каменное здание Санкт-Петербурга.)</Answer>
+    </Question>
+    <Question>
+      <Name>Невский проспект начинается от Адмиралтейства. А куда он ведёт и с чем соединяет Адмиралтейство?</Name>
+      <Contents>Невский проспект начинается от Адмиралтейства. А куда он ведёт и с чем соединяет Адмиралтейство?
+а) С Невой;
+б) С Зимним дворцом;
+в) С монастырём Александра Невского;
+г) С Царским селом.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>С монастырём Александра Невского; (По названию монастыря проспект и назван. Ранее это была Большая Першпективная дорога.)</Answer>
+    </Question>
+    <Question>
+      <Name>Назовите архитектора здания Адмиралтейства в Санкт-Петербурге?</Name>
+      <Contents>Назовите архитектора здания Адмиралтейства в Санкт-Петербурге?
+а) Баженов;
+б) Росси;
+в) Растрелли;
+г) Захаров.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Захаров.
+(Захаров Андреян Дмитриевич.)</Answer>
+    </Question>
+    <Question>
+      <Name>Что украшает шпиль Петербургского Адмиралтейства?</Name>
+      <Contents>Что украшает шпиль Петербургского Адмиралтейства?
+а) Крест;
+б) Звезда;
+в) Кораблик;
+г) Двуглавый орёл.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Кораблик</Answer>
+    </Question>
+    <Question>
+      <Name>Чем является кораблик, помещённый на шпиле Адмиралтейства в Санкт-Петербурге?</Name>
+      <Contents>Чем является кораблик, помещённый на шпиле Адмиралтейства в Санкт-Петербурге?
+а) Компасом;
+б) Флюгером;
+в) Маяком;
+г) Антенной.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Флюгером</Answer>
+    </Question>
+    <Question>
+      <Name>Какой из этих памятников архитектуры НЕ является детищем В.В. Растрелли?</Name>
+      <Contents>Какой из этих памятников архитектуры НЕ является детищем В.В. Растрелли?
+а) Смольный монастырь;
+б) Зимний дворец;
+в) Большой дворец в Петергофе;
+г) Здание Адмиралтейства.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Здание Адмиралтейства.
+
+(Построено по чертежам Петра I с последующими перестройками.)</Answer>
+    </Question>
+    <Question>
+      <Name>Выстрел из пушки Петропавловской крепости сейчас означает, что наступил полдень. А во времена Екатерины Второй он возвещал о пришествии беды. Какой?</Name>
+      <Contents>Выстрел из пушки Петропавловской крепости сейчас означает, что наступил полдень. А во времена Екатерины Второй он возвещал о пришествии беды. Какой?
+а) Пожар;
+б) Нашествие врагов;
+в) Наводнение;
+г) Эпидемия.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Наводнение (Свыше 7 футов. Это самое опасное бедствие для Санкт-Петербурга.)</Answer>
+    </Question>
+    <Question>
+      <Name>Памятником кому является петербургский «Медный всадник»?</Name>
+      <Contents>Памятником кому является петербургский «Медный всадник»?
+а) Петру Великому;
+б) Юрию Долгорукому;
+в) Александру Суворову;
+г) Семёну Буденному.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Петру Великому;</Answer>
+    </Question>
+    <Question>
+      <Name>Из чего отлита фигура Медного всадника?</Name>
+      <Contents>Из чего отлита фигура Медного всадника?
+а) Бронза;
+б) Чугун;
+в) Латунь;
+г) Медь.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Бронза</Answer>
+    </Question>
+    <Question>
+      <Name>На постаменте «Медного всадника» два имени. Первое – «Петру I». Какое второе имя написано на постаменте?</Name>
+      <Contents>На постаменте «Медного всадника» два имени. Первое – «Петру I». Какое второе имя написано на постаменте?
+а) Елизавета I;
+б) Екатерина I;
+в) Екатерина II;
+г) Архитектор Фальконе.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Екатерина II (Памятник создан по приказу Екатерины II, на нём написано: «Петру I Екатерина II».)</Answer>
+    </Question>
+    <Question>
+      <Name>В честь победы в какой войне сооружена Александровская колонна в Петербурге?</Name>
+      <Contents>В честь победы в какой войне сооружена Александровская колонна в Петербурге?
+а) В Северной;
+б) В Крымской;
+в) В Отечественной войне 1812 года;
+г) В русско-турецкой 1787-91гг.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>В Отечественной войне 1812 года;</Answer>
+    </Question>
+    <Question>
+      <Name>Какая площадь находится в центре Санкт-Петербурга?</Name>
+      <Contents>Какая площадь находится в центре Санкт-Петербурга?
+а) Сенатская;
+б) Красная;
+в) Ивановская;
+г) Манежная площадь</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Сенатская</Answer>
+    </Question>
+    <Question>
+      <Name>Какую реку пересекает в Санкт-Петербурге Дворцовый мост?</Name>
+      <Contents>Какую реку пересекает в Санкт-Петербурге Дворцовый мост?
+а) Нева;
+б) Ладога;
+в) Волга;
+г) Яуза.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Нева</Answer>
+    </Question>
+    <Question>
+      <Name>Какой петербургский мост не разводят?</Name>
+      <Contents>Какой петербургский мост не разводят?
+
+а) Дворцовый;
+б) Троицкий;
+в) Литейный;
+г) Аничков.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Аничков.
+
+(Этот постоянный каменный мост переброшен не через Неву, а через Фонтанку.)</Answer>
+    </Question>
+    <Question>
+      <Name>Чьему имени или фамилии Аничков мост обязан своим названием?</Name>
+      <Contents>Чьему имени или фамилии Аничков мост обязан своим названием?
+
+а) Архитектора моста;
+б) Скульптора конных фигур моста;
+в) Девушки, бросившейся с этого моста;
+г) Инженера-подполковника, строившего мост.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Инженера-подполковника, строившего мост.
+
+(Строился мост силами инженерного батальона, которым командовал инженер-подполковник Михаил Аничков. Батальон Аничкова размещался на берегу Фонтанки в старой финской деревне, прозванной с тех пор «Аничковой слободой».)</Answer>
+    </Question>
+    <Question>
+      <Name>Какая река не протекает в Санкт-Петербурге?</Name>
+      <Contents>Какая река не протекает в Санкт-Петербурге?
+а) Мойка;
+б) Нева;
+в) Фонтанка;
+г) Яуза.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Яуза</Answer>
+    </Question>
+    <Question>
+      <Name>Выше какого здания Николай I запретил строить дома в Санкт-Петербурге?</Name>
+      <Contents>Выше какого здания Николай I запретил строить дома в Санкт-Петербурге?
+а) Исаакиевский собор;
+б) Смольный институт;
+в) Зимний дворец;
+г) Адмиралтейство.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зимний дворец</Answer>
+    </Question>
+    <Question>
+      <Name>В какой петербургский архитектурный ансамбль входит Эрмитаж?</Name>
+      <Contents>В какой петербургский архитектурный ансамбль входит Эрмитаж?
+а) Зимний дворец;
+б) Павловск;
+в) Царское село;
+г) Петродворец.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Зимний дворец</Answer>
+    </Question>
+    <Question>
+      <Name>Какое из этих зданий Санкт-Петербурга создал архитектор Джакомо Кваренги?</Name>
+      <Contents>Какое из этих зданий Санкт-Петербурга создал архитектор Джакомо Кваренги?
+а) Смольный институт;
+б) Русский музей;
+в) Адмиралтейство;
+г) Исаакиевский собор</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Смольный институт</Answer>
+    </Question>
+    <Question>
+      <Name>В каком архитектурном стиле возведён Казанский собор в Санкт-Петербурге?</Name>
+      <Contents>В каком архитектурном стиле возведён Казанский собор в Санкт-Петербурге?
+
+а) Классицизм;
+б) Барокко;
+в) Романский;
+г) Рококо.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Классицизм (Автор проекта А. Н. Воронихин.)</Answer>
+    </Question>
+    <Question>
+      <Name>Сколько колонн насчитывается в грандиозной колоннаде перед северным фасадом Казанского собора?</Name>
+      <Contents>Сколько колонн насчитывается в грандиозной колоннаде перед северным фасадом Казанского собора?
+
+а) 36;
+б) 56;
+в) 76;
+г) 96.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>96</Answer>
+    </Question>
+    <Question>
+      <Name>Какой из этих музеев находится в Санкт-Петербурге?</Name>
+      <Contents>Какой из этих музеев находится в Санкт-Петербурге?
+а) Русский;
+б) Народов Востока;
+в) Третьяковская галерея;
+г) Имени А.С. Пушкина</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Русский</Answer>
+    </Question>
+    <Question>
+      <Name>На какой петербургской площади произошло восстание декабристов?</Name>
+      <Contents>На какой петербургской площади произошло восстание декабристов?
+а) На Казанской;
+б) На Исаакиевской;
+в) На Сенатской;
+г) На Марсовом поле.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>На Сенатской</Answer>
+    </Question>
+    <Question>
+      <Name>Что стало достопримечательностью Петербурга?</Name>
+      <Contents>Что стало достопримечательностью Петербурга?
+а) Банковский мост;
+б) Менеджерский бастион;
+в) Брокерская крепость;
+г) Налоговая пирамида</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Банковский мост</Answer>
+    </Question>
+    <Question>
+      <Name>Скульптуры каких существ, привезённые из Египта в 1832 году, украшают Университетскую набережную в Санкт-Петербурге?</Name>
+      <Contents>Скульптуры каких существ, привезённые из Египта в 1832 году, украшают Университетскую набережную в Санкт-Петербурге?
+а) Сфинксов;
+б) Грифонов;
+в) Сирен;
+г) Кентавров.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Сфинксов</Answer>
+    </Question>
+    <Question>
+      <Name>Какое сооружение Санкт-Петербурга снесли ещё при царе?</Name>
+      <Contents>Какое сооружение Санкт-Петербурга снесли ещё при царе?
+а) Казанский собор;
+б) Александровская колонна;
+в) Алексеевский равелин;
+г) Мариинский театр.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Алексеевский равелин (На его месте теперь здание военного архива, с 1895 года.)</Answer>
+    </Question>
+    <Question>
+      <Name>В каком месяце жители Петербурга наблюдают белые ночи?</Name>
+      <Contents>В каком месяце жители Петербурга наблюдают белые ночи?
+а) Март;
+б) Июнь;
+в) Май;
+г) Апрель.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Июнь</Answer>
+    </Question>
+    <Question>
+      <Name>Кому из этих персонажей установлен монумент на Фонтанке в Санкт-Петербурге?</Name>
+      <Contents>Кому из этих персонажей установлен монумент на Фонтанке в Санкт-Петербурге?
+а) Чижик-Пыжик;
+б) Конёк-Горбунок;
+в) Мышка-Норушка;
+г) Муха-Цокотуха.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Чижик-Пыжик</Answer>
+    </Question>
+    <Question>
+      <Name>Какой литературной собаке был недавно открыт памятник в Санкт-Петербурге? Чугунная собачонка доверчиво жмётся к ногам своего хозяина.</Name>
+      <Contents>Какой литературной собаке был недавно открыт памятник в Санкт-Петербурге? Чугунная собачонка доверчиво жмётся к ногам своего хозяина.
+а) Каштанка;
+б) Муму;
+в) Артемон;
+г) Белый Бим Чёрное Ухо</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Муму</Answer>
+    </Question>
+    <Question>
+      <Name>Какой литературный памятник был установлен в Санкт-Петербурге?</Name>
+      <Contents>Какой литературный памятник был установлен в Санкт-Петербурге?
+а) Носу майора Ковалёва;
+б) Трубке Тараса Бульбы;
+в) Шинели Башмачкина;
+г) Бричке Чичикова.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Носу майора Ковалёва</Answer>
+    </Question>
+    <Question>
+      <Name>Какой дворец является резиденцией Президента РФ в Санкт-Петербурге?</Name>
+      <Contents>Какой дворец является резиденцией Президента РФ в Санкт-Петербурге?
+а) Зимний;
+б) Михайловский;
+в) Таврический;
+г) Константиновский.</Contents>
+      <Category>-- Выбрать --</Category>
+      <Price />
+      <Answer>Константиновский 
+(Отреставрированный к 300-летию Санкт-Петербурга.)</Answer>
+    </Question>
+  </QuestionsList>
+</Questions>

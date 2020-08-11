@@ -37,22 +37,25 @@
             this.btnAdd = new System.Windows.Forms.Button();
             this.txtPriceQuestion = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.cbCategoryQuestion = new System.Windows.Forms.ComboBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.txtContentQuestion = new System.Windows.Forms.TextBox();
             this.btnSerialize = new System.Windows.Forms.Button();
             this.btnDeserialize = new System.Windows.Forms.Button();
-            this.cbCategoryQuestion = new System.Windows.Forms.ComboBox();
+            this.txtAnswer = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
             // lvQuestions
             // 
+            this.lvQuestions.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.lvQuestions.HideSelection = false;
             this.lvQuestions.Location = new System.Drawing.Point(13, 87);
             this.lvQuestions.Name = "lvQuestions";
-            this.lvQuestions.Size = new System.Drawing.Size(527, 700);
+            this.lvQuestions.Size = new System.Drawing.Size(527, 909);
             this.lvQuestions.TabIndex = 0;
             this.lvQuestions.UseCompatibleStateImageBehavior = false;
             this.lvQuestions.View = System.Windows.Forms.View.List;
@@ -75,11 +78,13 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(560, 799);
+            this.panel1.Size = new System.Drawing.Size(560, 1008);
             this.panel1.TabIndex = 2;
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.txtAnswer);
+            this.panel2.Controls.Add(this.label6);
             this.panel2.Controls.Add(this.txtNameQuestion);
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.btnAdd);
@@ -91,7 +96,7 @@
             this.panel2.Controls.Add(this.txtContentQuestion);
             this.panel2.Location = new System.Drawing.Point(601, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(552, 687);
+            this.panel2.Size = new System.Drawing.Size(552, 903);
             this.panel2.TabIndex = 3;
             // 
             // txtNameQuestion
@@ -115,7 +120,7 @@
             // btnAdd
             // 
             this.btnAdd.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnAdd.Location = new System.Drawing.Point(153, 612);
+            this.btnAdd.Location = new System.Drawing.Point(146, 829);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(228, 54);
             this.btnAdd.TabIndex = 7;
@@ -140,6 +145,15 @@
             this.label4.Size = new System.Drawing.Size(392, 46);
             this.label4.TabIndex = 5;
             this.label4.Text = "Стоимость вопроса";
+            // 
+            // cbCategoryQuestion
+            // 
+            this.cbCategoryQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.cbCategoryQuestion.FormattingEnabled = true;
+            this.cbCategoryQuestion.Location = new System.Drawing.Point(17, 443);
+            this.cbCategoryQuestion.Name = "cbCategoryQuestion";
+            this.cbCategoryQuestion.Size = new System.Drawing.Size(524, 44);
+            this.cbCategoryQuestion.TabIndex = 4;
             // 
             // label3
             // 
@@ -173,7 +187,7 @@
             // btnSerialize
             // 
             this.btnSerialize.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnSerialize.Location = new System.Drawing.Point(634, 727);
+            this.btnSerialize.Location = new System.Drawing.Point(627, 937);
             this.btnSerialize.Name = "btnSerialize";
             this.btnSerialize.Size = new System.Drawing.Size(209, 47);
             this.btnSerialize.TabIndex = 7;
@@ -184,7 +198,7 @@
             // btnDeserialize
             // 
             this.btnDeserialize.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnDeserialize.Location = new System.Drawing.Point(903, 727);
+            this.btnDeserialize.Location = new System.Drawing.Point(896, 937);
             this.btnDeserialize.Name = "btnDeserialize";
             this.btnDeserialize.Size = new System.Drawing.Size(209, 47);
             this.btnDeserialize.TabIndex = 8;
@@ -192,20 +206,30 @@
             this.btnDeserialize.UseVisualStyleBackColor = true;
             this.btnDeserialize.Click += new System.EventHandler(this.btnDeserialize_Click);
             // 
-            // cbCategoryQuestion
+            // txtAnswer
             // 
-            this.cbCategoryQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.cbCategoryQuestion.FormattingEnabled = true;
-            this.cbCategoryQuestion.Location = new System.Drawing.Point(17, 443);
-            this.cbCategoryQuestion.Name = "cbCategoryQuestion";
-            this.cbCategoryQuestion.Size = new System.Drawing.Size(524, 44);
-            this.cbCategoryQuestion.TabIndex = 4;
+            this.txtAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.txtAnswer.Location = new System.Drawing.Point(18, 670);
+            this.txtAnswer.Multiline = true;
+            this.txtAnswer.Name = "txtAnswer";
+            this.txtAnswer.Size = new System.Drawing.Size(524, 139);
+            this.txtAnswer.TabIndex = 11;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label6.Location = new System.Drawing.Point(10, 614);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(364, 46);
+            this.label6.TabIndex = 10;
+            this.label6.Text = "Правильный ответ";
             // 
             // frmQuestion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1171, 799);
+            this.ClientSize = new System.Drawing.Size(1171, 1008);
             this.Controls.Add(this.btnDeserialize);
             this.Controls.Add(this.btnSerialize);
             this.Controls.Add(this.panel2);
@@ -238,5 +262,7 @@
         private System.Windows.Forms.Button btnSerialize;
         private System.Windows.Forms.Button btnDeserialize;
         private System.Windows.Forms.ComboBox cbCategoryQuestion;
+        private System.Windows.Forms.TextBox txtAnswer;
+        private System.Windows.Forms.Label label6;
     }
 }

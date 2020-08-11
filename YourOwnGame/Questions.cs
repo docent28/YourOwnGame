@@ -27,14 +27,17 @@ namespace YourOwnGame
         [XmlElement("Price")]
         public string priceQuestion { get; set; }
 
+        [XmlElement("Answer")]
+        public string answerQuestion { get; set; }
+
         public Question() { }
-        public Question(string nameQuestion, string contentsQuestion, string categoryQuestion, string priceQuestion)
+        public Question(string nameQuestion, string contentsQuestion, string categoryQuestion, string priceQuestion, string answerQuestion)
         {
             this.nameQuestion = nameQuestion;
             this.contentsQuestion = contentsQuestion;
             this.categoryQuestion = categoryQuestion;
             this.priceQuestion = priceQuestion;
+            this.answerQuestion = answerQuestion;
         }
-
     }
 }

@@ -26,6 +26,7 @@ namespace YourOwnGame
             txtContentQuestion.Text = string.Empty;
             cbCategoryQuestion.Text = "-- Выбрать --";
             txtPriceQuestion.Text = string.Empty;
+            txtAnswer.Text = string.Empty;
         }
 
         private void Add(Question question)
@@ -44,7 +45,6 @@ namespace YourOwnGame
             {
                 return (Questions)xml.Deserialize(fs);
             }
-
         }
 
         private void btnDeserialize_Click(object sender, EventArgs e)
@@ -88,7 +88,7 @@ namespace YourOwnGame
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            Question question = new Question(txtNameQuestion.Text, txtContentQuestion.Text, cbCategoryQuestion.Text, txtPriceQuestion.Text);
+            Question question = new Question(txtNameQuestion.Text, txtContentQuestion.Text, cbCategoryQuestion.Text, txtPriceQuestion.Text, txtAnswer.Text);
 
             Add(question);
 
@@ -107,6 +107,7 @@ namespace YourOwnGame
                     txtContentQuestion.Text = question.contentsQuestion;
                     cbCategoryQuestion.Text = question.categoryQuestion;
                     txtPriceQuestion.Text = question.priceQuestion;
+                    txtAnswer.Text = question.answerQuestion;
                 }
             }
             else
