@@ -44,12 +44,15 @@ namespace YourOwnGame
             {
                 return (Questions)xml.Deserialize(fs);
             }
+
         }
 
         private void btnDeserialize_Click(object sender, EventArgs e)
         {
             ClearInput();
 
+            lvQuestions.Clear();
+           
             Questions questions = DeserializeXML();
 
             foreach (Question question in questions.QuestionsList)
