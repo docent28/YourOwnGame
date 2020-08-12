@@ -13,7 +13,6 @@ namespace YourOwnGame
 {
     public partial class frmBasicForm : Form
     {
-       
         public List<Label> arrLabel = new List<Label>();
         int currentLabelNumber;
         Thread threadF3;
@@ -29,8 +28,48 @@ namespace YourOwnGame
             // заполняем цифрами
             newGameLabelTxt();
 
+            // выбираем 100 вопросов из файла
+            Questions listRndQuestions = selectionRndQuestions(frmQuestion.DeserializeXML());
+
             threadF3 = new Thread(new ThreadStart(this.PaintKv));
             threadF3.Start();
+        }
+
+        // Составляем список из 100 случайных вопросов
+        private Questions selectionRndQuestions(Questions questions)
+        {
+            Questions lstRndQuestions = new Questions();
+
+            if (questions.QuestionsList.Count < 100)
+            {
+                throw new Exception();
+            }
+
+            int[] numLabel = new int[questions.QuestionsList.Count];
+            Random rnd = new Random();
+
+            for (int i = 0; i < questions.QuestionsList.Count; i++)
+            {
+                numLabel[i] = i;
+            }
+
+            for (int i = 0; i < questions.QuestionsList.Count; i++)
+            {
+                int j = rnd.Next(i + 1);
+                if (j != i)
+                {
+                    int tmp = numLabel[i];
+                    numLabel[i] = numLabel[j];
+                    numLabel[j] = tmp;
+                }
+            }
+
+            for (int i = 0; i < 100; i++)
+            {
+                lstRndQuestions.QuestionsList.Add(questions.QuestionsList[numLabel[i]]);
+            }
+
+            return lstRndQuestions;
         }
 
         private void tsmNew_Click(object sender, EventArgs e)
@@ -115,6 +154,9 @@ namespace YourOwnGame
                 if (!isPause)
                 {
                     isPause = true;
+                    frmAskedQuestion frmAskedQuestion = new frmAskedQuestion();
+                    
+                    frmAskedQuestion.ShowDialog();
                 }
             }
         }

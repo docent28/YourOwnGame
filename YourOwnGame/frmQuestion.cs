@@ -37,7 +37,7 @@ namespace YourOwnGame
             lvQuestions.Items.Add(LVI);
         }
 
-        private Questions DeserializeXML()
+        public static Questions DeserializeXML()
         {
             XmlSerializer xml = new XmlSerializer(typeof(Questions));
 
@@ -88,7 +88,8 @@ namespace YourOwnGame
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            Question question = new Question(txtNameQuestion.Text, txtContentQuestion.Text, cbCategoryQuestion.Text, txtPriceQuestion.Text, txtAnswer.Text);
+            Question question = new Question(txtNameQuestion.Text, txtContentQuestion.Text, cbCategoryQuestion.Text,
+                                             txtPriceQuestion.Text, txtAnswer.Text);
 
             Add(question);
 
