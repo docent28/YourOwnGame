@@ -16,5 +16,13 @@ namespace YourOwnGame
         {
             InitializeComponent();
         }
+
+        public void fillForm()
+        {
+            var parentForm = this.Owner as frmBasicForm;
+            var currentLabelNumber = parentForm.currentLabelNumber;
+            this.lblNumber.Text = currentLabelNumber.ToString("000");
+            this.txtQuestion.Text = parentForm.listRndQuestions.QuestionsList[currentLabelNumber - 1].nameQuestion;
+        }
     }
 }

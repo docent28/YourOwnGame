@@ -14,9 +14,10 @@ namespace YourOwnGame
     public partial class frmBasicForm : Form
     {
         public List<Label> arrLabel = new List<Label>();
-        int currentLabelNumber;
+        public int currentLabelNumber;
         Thread threadF3;
         bool isPause = true;
+        public Questions listRndQuestions;
 
         public frmBasicForm()
         {
@@ -29,7 +30,7 @@ namespace YourOwnGame
             newGameLabelTxt();
 
             // выбираем 100 вопросов из файла
-            Questions listRndQuestions = selectionRndQuestions(frmQuestion.DeserializeXML());
+            listRndQuestions = selectionRndQuestions(frmQuestion.DeserializeXML());
 
             threadF3 = new Thread(new ThreadStart(this.PaintKv));
             threadF3.Start();
@@ -127,8 +128,14 @@ namespace YourOwnGame
                 if (!isPause)
                 {
                     var t = InitPole.rndSampling();
-                    this.arrLabel[t].BackColor = Color.Red;
-                    this.arrLabel[currentLabelNumber].BackColor = Color.White;
+                    var findLbl = this.Controls["lbl" + t.ToString("000")];
+                    findLbl.BackColor = Color.Red;
+                    if (currentLabelNumber == 0)
+                    {
+                        currentLabelNumber = 1;
+                    }
+                    findLbl = this.Controls["lbl" + currentLabelNumber.ToString("000")];
+                    findLbl.BackColor = Color.White;
                     currentLabelNumber = t;
                 }
                 Thread.Sleep(100);
@@ -137,7 +144,7 @@ namespace YourOwnGame
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.F2)
+            if (e.KeyCode == Keys.F2 && isPause)
             {
                 newGameLabelTxt();
             }
@@ -154,8 +161,10 @@ namespace YourOwnGame
                 if (!isPause)
                 {
                     isPause = true;
+
                     frmAskedQuestion frmAskedQuestion = new frmAskedQuestion();
-                    
+                    frmAskedQuestion.Owner = this;  // назначаем родителя
+                    frmAskedQuestion.fillForm();    // заполняем форму
                     frmAskedQuestion.ShowDialog();
                 }
             }

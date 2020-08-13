@@ -34,7 +34,7 @@ namespace YourOwnGame
         {
             Random rnd = new Random();
 
-            int rndLbl = rnd.Next(1, 100);
+            int rndLbl = rnd.Next(1, 101);
 
             return rndLbl;
         }

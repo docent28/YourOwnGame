@@ -57,6 +57,7 @@
             // 
             // txtQuestion
             // 
+            this.txtQuestion.Enabled = false;
             this.txtQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtQuestion.Location = new System.Drawing.Point(12, 121);
             this.txtQuestion.Multiline = true;
@@ -66,6 +67,7 @@
             // 
             // txtxAnswer
             // 
+            this.txtxAnswer.Enabled = false;
             this.txtxAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtxAnswer.Location = new System.Drawing.Point(12, 491);
             this.txtxAnswer.Multiline = true;
