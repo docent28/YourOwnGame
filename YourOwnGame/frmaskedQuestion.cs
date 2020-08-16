@@ -34,6 +34,11 @@ namespace YourOwnGame
                 label2.Visible = true;
                 txtAnswer.Visible = true;
             }
+
+            if (e.KeyCode == Keys.Escape)
+            {
+                this.Close();
+            }
         }
     }
 }

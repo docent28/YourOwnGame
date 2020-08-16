@@ -145,11 +145,12 @@ namespace YourOwnGame
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
-            if (e.KeyCode == Keys.F2 && isPause)
+            if (e.KeyCode == Keys.F2 && isPause && frmBasicForm.numSelectedQuestions.Count() == 0)    // перемешиваем карточки
             {
                 newGameLabelTxt();
             }
-            if (e.KeyCode == Keys.F3)
+
+            if (e.KeyCode == Keys.F3)   // выбираем случайный номер
             {
                 if(isPause)
                 {
@@ -157,7 +158,7 @@ namespace YourOwnGame
                 }
             }
 
-            if(e.KeyCode==Keys.Space)
+            if(e.KeyCode==Keys.Space)   // вызываем форму с вопросом
             {
                 if (!isPause)
                 {
