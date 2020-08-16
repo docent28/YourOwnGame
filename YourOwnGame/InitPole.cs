@@ -36,6 +36,18 @@ namespace YourOwnGame
 
             int rndLbl = rnd.Next(1, 101);
 
+            if (frmBasicForm.numSelectedQuestions.Count() == 0)
+            {
+                rndLbl = rnd.Next(1, 101);
+            }
+            else
+            {
+                while (frmBasicForm.numSelectedQuestions.IndexOf(rndLbl) != -1)
+                {
+                    rndLbl = rnd.Next(1, 101);
+                }
+            }
+
             return rndLbl;
         }
     }

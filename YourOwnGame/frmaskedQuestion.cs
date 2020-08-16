@@ -23,6 +23,17 @@ namespace YourOwnGame
             var currentLabelNumber = parentForm.currentLabelNumber;
             this.lblNumber.Text = currentLabelNumber.ToString("000");
             this.txtQuestion.Text = parentForm.listRndQuestions.QuestionsList[currentLabelNumber - 1].nameQuestion;
+            this.txtAnswer.Text = parentForm.listRndQuestions.QuestionsList[currentLabelNumber - 1].answerQuestion;
+            frmBasicForm.numSelectedQuestions.Add(currentLabelNumber);
+        }
+
+        private void frmAskedQuestion_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Space)
+            {
+                label2.Visible = true;
+                txtAnswer.Visible = true;
+            }
         }
     }
 }

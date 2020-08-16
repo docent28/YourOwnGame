@@ -18,6 +18,7 @@ namespace YourOwnGame
         Thread threadF3;
         bool isPause = true;
         public Questions listRndQuestions;
+        static public List<int> numSelectedQuestions = new List<int>(100);
 
         public frmBasicForm()
         {
@@ -138,7 +139,7 @@ namespace YourOwnGame
                     findLbl.BackColor = Color.White;
                     currentLabelNumber = t;
                 }
-                Thread.Sleep(100);
+                 Thread.Sleep(100);
             }
         }
 
