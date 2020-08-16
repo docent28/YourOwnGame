@@ -18,7 +18,7 @@ namespace YourOwnGame
         Thread threadF3;
         bool isPause = true;
         public Questions listRndQuestions;
-        static public List<int> numSelectedQuestions = new List<int>(100);
+        static public List<int> numSelectedQuestions = new List<int>(100);  // лист с номерами которые уже выпадали
 
         public frmBasicForm()
         {
@@ -131,15 +131,23 @@ namespace YourOwnGame
                     var t = InitPole.rndSampling();
                     var findLbl = this.Controls["lbl" + t.ToString("000")];
                     findLbl.BackColor = Color.Red;
-                    if (currentLabelNumber == 0)
+                    if (currentLabelNumber == 0)        // срабатывает один раз, так как нумерация ячеек начинается с 1
                     {
                         currentLabelNumber = 1;
                     }
                     findLbl = this.Controls["lbl" + currentLabelNumber.ToString("000")];
-                    findLbl.BackColor = Color.White;
+
+                    if (numSelectedQuestions.IndexOf(currentLabelNumber) != -1) // остается зеленым если был выбран
+                    {
+                        findLbl.BackColor = Color.Green;
+                    }
+                    else
+                    {
+                        findLbl.BackColor = Color.White;
+                    }
                     currentLabelNumber = t;
                 }
-                 Thread.Sleep(100);
+                Thread.Sleep(100);
             }
         }
 
@@ -152,13 +160,13 @@ namespace YourOwnGame
 
             if (e.KeyCode == Keys.F3)   // выбираем случайный номер
             {
-                if(isPause)
+                if (isPause)
                 {
                     isPause = false;
                 }
             }
 
-            if(e.KeyCode==Keys.Space)   // вызываем форму с вопросом
+            if (e.KeyCode == Keys.Space)   // вызываем форму с вопросом
             {
                 if (!isPause)
                 {
@@ -168,6 +176,10 @@ namespace YourOwnGame
                     frmAskedQuestion.Owner = this;  // назначаем родителя
                     frmAskedQuestion.fillForm();    // заполняем форму
                     frmAskedQuestion.ShowDialog();
+
+                    var findLbl = this.Controls["lbl" + currentLabelNumber.ToString("000")];
+                    findLbl.BackColor = Color.Green;
+
                 }
             }
         }

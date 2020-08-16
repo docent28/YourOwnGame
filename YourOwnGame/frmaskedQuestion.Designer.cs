@@ -58,17 +58,17 @@
             // txtQuestion
             // 
             this.txtQuestion.Enabled = false;
-            this.txtQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.txtQuestion.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtQuestion.Location = new System.Drawing.Point(12, 121);
             this.txtQuestion.Multiline = true;
             this.txtQuestion.Name = "txtQuestion";
-            this.txtQuestion.Size = new System.Drawing.Size(1154, 224);
+            this.txtQuestion.Size = new System.Drawing.Size(1154, 266);
             this.txtQuestion.TabIndex = 2;
             // 
             // txtAnswer
             // 
             this.txtAnswer.Enabled = false;
-            this.txtAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.txtAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.txtAnswer.Location = new System.Drawing.Point(12, 491);
             this.txtAnswer.Multiline = true;
             this.txtAnswer.Name = "txtAnswer";
@@ -80,7 +80,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(368, 404);
+            this.label2.Location = new System.Drawing.Point(368, 422);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(443, 46);
             this.label2.TabIndex = 4;
